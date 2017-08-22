@@ -24,6 +24,7 @@ it.
 
 + Configure Visual Studio Community 2017.
 + If you’re on MacOS skip ahead 2 mins.
+
 **_Software changes regularly. If your install options are different please post a screenshot in the Q&A_****_ so we can update the course. Thanks._**
 
 ### 5 Unreal Development Environment ###
@@ -77,4 +78,5 @@ it.
 + Visual Studio on Mac?
 + Ben’s Momentum plugin.
 + And more.
+
 Awkward paws...
